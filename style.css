@@ -88,8 +88,8 @@
 		height: 20px;
 	}
 	button#proxVid_Cancelar{
-		position: fixed; 
-		top: 220px; 
+		position: relative; 
+		top: -280px; 
 		left: 48%;		
 		max-width: 150px;
 		max-height: 100px ;
@@ -131,8 +131,8 @@
 		opacity:0.7;
 	}
 	img#carregando_proximo_video{
-		position: fixed; 
-		top: 115px; 
+		position: relative; 
+		top: -260px; 
 		left: 47%;
 		max-width: 150px;
 		max-height: 100px ;
@@ -140,8 +140,8 @@
 		cursor:pointer;
 	}
 	img#play_prox{
-		position: fixed; 
-		top: 150px; 
+		position: relative; 
+		top: -325px; 
 		left: 50%;
 		max-width: 30px;
 		max-height: 110px ;
@@ -156,8 +156,8 @@
 		left: 37%;	
 	}
 	p#proximoVideoText{
-		position: fixed; 
-		top: 85px; 
+		position: relative; 
+		top: -445px; 
 		left: 47%;
 		opacity:0.7;
 		cursor:auto;
