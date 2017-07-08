@@ -149,7 +149,7 @@
 	}
 	p#mensagem_ocultar_bar{
 		font-size:11px;
-		color:white;
+		color:red;
 		position: relative; 
 		top: -25px; 
 		left: 37%;	
