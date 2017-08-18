@@ -1,165 +1,272 @@
+@charset "utf-8";
+img#bateria{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#chimbal_pedal{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#chimbal_pedal_2{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#chimbal{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#pedal_1{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#pedal_2{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#splash{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#pele_bumbo{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#pele_caixa{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#pele_tom_1{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#pele_tom_2{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#pele_tom_3{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#surdo_1{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#surdo_2{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#prato_1{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#prato_2{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#conducao_1{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+img#conducao_2{
+	width: 780px;
+	height: 630px;
+	position: fixed;
+	left: 20%;
+	top: 2%;
+}
+button#chimbal{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:295px;	
+	top: 220px;
+	width:130px;
+	height:80px;
+}
+button#chimbal_pedal{
+	background:url();
+	border: 0px;
+	position:fixed;
+	left:435px;	
+	top: 520px;
+	width:85;
+	height:60px;
+}
+button#caixa{
+	background:url();
+	border: 0px;
+	position:fixed;
+	left:450px;	
+	top: 245px;
+	width:130px;
+	height:80px;
+}
+button#aro{
+	background:url();
+	border: 0px;
+	position:fixed;
+	left:470px;	
+	top: 308px;
+	width:80;
+	height:10px;
+}
+button#bumbo{
+	background:url();
+	border: 0px;
+	position:fixed;
+	left:610px;	
+	top: 295px;
+	width:150px;
+	height:150px;
+}
+button#bumbo_pedal{
+	background:url();
+	border: 0px;
+	position:fixed;
+	left:638px;	
+	top: 440px;
+	width:70;
+	height:90px;
+}
+button#tom_1{
+	background:url();
+	border: 0px;
+	position:fixed;
+	left:534px;	
+	top: 146px;
+	width:80px;
+	height:70px;
+}
+button#tom_2{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:626px;	
+	top: 112px;
+	width:80px;
+	height:70px;
+}
+button#tom_3{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:725px;	
+	top: 130px;
+	width:100px;
+	height:70px;
+}
+button#surdo_1{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:780px;	
+	top: 233px;
+	width:130px;
+	height:65px;
+}
+button#surdo_2{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:855px;	
+	top: 305px;
+	width:180px;
+	height:95px;
+}
+button#prato_1{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:380px;	
+	top: 50px;
+	width:150px;
+	height:80px;
+}
+button#prato_2{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:550px;	
+	top: 17px;
+	width:150px;
+	height:80px;
+}
+button#conducao_1{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:785px;	
+	top: 20px;
+	width:155px;
+	height:90px;
+}
+button#conducao_2{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:850px;	
+	top: 40px;
+	width:40px;
+	height:30px;
+}
+button#splash{
+	border: 0px;
+	background:url();
+	position:fixed;
+	left:925px;	
+	top: 85px;
+	width:95px;
+	height:70px;
+}
 
-	@charset "utf-8";
-	div#video_player_box{width:550px; background:#000; margin:0px auto; border:ridge; border-color:#CCC}
-	div#video_controls_bar{background:url(http://i.imgur.com/dK3ydMtr.jpg); padding:10px; color:#CCC; font-family:"Segoe UI Symbol";}
-	div#video_controls_bar_lateral{
-	background:url(http://i.imgur.com/dK3ydMtr.jpg); 
-	margin:0px; 
-	width:45px;
-	color:#CCC; 
-	font-family:"Segoe UI Symbol";
-	position: absolute; 
-	top: 146px; 
-	left: 0px; 
-	border: ridge;
-	border-color: #CCC;
-	border-left: none;
-	}
-	button#playpausebtn{
-		background:url(http://ap.imagensbrasil.org/images/2017/07/01/Play879eb.png);
-		border:none;	
-		width:13px;
-		height:16px;
-		cursor:pointer;
-		opacity:0.5;
-	}
-	button#playpausebtn:hover{opacity:1;}
-	button#playpausebtn_lateral{
-		background:url(http://ap.imagensbrasil.org/images/2017/07/01/Play879eb.png);
-		border:none;	
-		width:13px;
-		height:16px;
-		cursor:pointer;
-		opacity:0.5;
-	}
-	button#playpausebtn_lateral:hover{opacity:1;}
-	button#mutebtn{
-		background:url(http://i66.tinypic.com/mr77yb.png);
-		border:none;
-		width:18px;
-		height:16px;
-		cursor:pointer;
-		opacity:0.5;
-		position: relative; 
-		top: 3px; 
-		left: 10px; 
-		width: 18px;
-	}
-	button#mutebtn:hover{opacity:1;}
-	button#mutebtn_lateral{
-		background:url(http://i66.tinypic.com/mr77yb.png);
-		border:none;
-		width:18px;
-		height:16px;
-		cursor:pointer;
-		opacity:0.5;
-	}
-	button#mutebtn_lateral:hover{opacity:1;}
-	button#fullscreenbtn{
-		background:url(http://ap.imagensbrasil.org/images/2017/07/01/Tela-Cheia5280b.png);
-		border:none;
-		width:18px;
-		height:16px;
-		cursor:pointer;
-		opacity:0.5;
-		position: relative; 
-		top: 03px; 
-		left: 508px; 
-		width: 18px;
-		float: left;
-	}
-	button#fullscreenbtn:hover{opacity:1;}
-	button#fullscreenbtn_lateral{
-		background:url(http://ap.imagensbrasil.org/images/2017/07/01/Tela-Cheia5280b.png);
-		border:none;
-		width:18px;
-		height:16px;
-		cursor:pointer;
-		opacity:0.5;
-	}
-	button#fullscreenbtn_lateral:hover{opacity:1;}
-	button#fixo{
-		background: url(http://ap.imagensbrasil.org/images/2017/07/02/rewind-play-pause-audio-buttons-hi.png);
-		cursor:pointer;
-		position: fixed; 
-		top: 638px; 
-		left: 0px; 
-		width: 74px;
-		height: 20px;
-	}
-	button#proxVid_Cancelar{
-		position: relative; 
-		top: -280px; 
-		left: 48%;		
-		max-width: 150px;
-		max-height: 100px ;
-		opacity:0.7;
-		cursor:pointer;
-	}
-	input#volumeslider{
-	position: relative; 
-	top: -1px; 
-	left: 8px;
-	}
-	input#seekslider{width:180px;}
-	input#volumeslider{width:80px;}
-	input[type='range']{
-		-webkit-appearance: none !important;
-		background:#000;
-		border:#666 1px solid;
-		height:4px;
-	}
-	input[type='range']::-webkit-slider-thumb{
-		-webkit-appearance: none !important;
-		background: #FFF;
-		height:15px;
-		width:15px;
-		border-radius:100%;
-		cursor:pointer;
-	}
-	img#imagem_tela{
-		position: relative; 
-		top: -250px; 
-		left: 48%;		
-	}
-	img#carregando_video{
-		position: relative; 
-		top: -250px; 
-		left: 48%;	
-		max-width: 120px;
-		max-height: 70px ;
-		opacity:0.7;
-	}
-	img#carregando_proximo_video{
-		position: relative; 
-		top: -260px; 
-		left: 47%;
-		max-width: 150px;
-		max-height: 100px ;
-		opacity:0.7;
-		cursor:pointer;
-	}
-	img#play_prox{
-		position: relative; 
-		top: -325px; 
-		left: 50%;
-		max-width: 30px;
-		max-height: 110px ;
-		opacity:0.7;
-		cursor:pointer;
-	}
-	p#mensagem_ocultar_bar{
-		font-size:11px;
-		color:white;
-		position: relative; 
-		top: -25px; 
-		left: 37%;	
-	}
-	p#proximoVideoText{
-		position: relative; 
-		top: -145px; 
-		left: 47%;
-		opacity:0.7;
-		cursor:auto;
-		color: #FFF;
-	}
