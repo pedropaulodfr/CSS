@@ -1,5 +1,9 @@
 @charset "utf-8";
-div#opcoes{
+@font-face {
+     font-family: lcdfont;
+     src: url('clock.ttf');
+}
+		div#opcoes{
 		position:fixed; /* posição */
 		top:0%; /* alinhamento vertical */
 		left: 0%; /* alinhamento horizontal */
@@ -37,21 +41,26 @@ div#opcoes{
 		top: 5%;
 		background: url('http://myauto.com.br/wp-content/uploads/2016/10/Cinza-Escuro.jpg');
 		}
+		div#ajustarLCD{
+		position: relative;
+		top: 5%;
+		background: url('http://myauto.com.br/wp-content/uploads/2016/10/Cinza-Escuro.jpg');
+		}
 		div#data{
 		position: fixed;
 		top: 56%;
-		left: 39.8%;
-		font-family:Arial;
+		left: 41.8%;
+		font-family:lcdfont;
 		font-size: 90%;
 		}
 		h1#mostraHora{
 		cursor: default;
 		position: fixed;
-		top: 20%;
-		left: 25%;
-		font-size: 900%;
+		top: 12%;
+		left: 27.5%;
+		font-size: 1200%;
 		font-color: #000;
-		font-family:Arial;
+		font-family:lcdfont;
 		}
 		h1{
 		position: relative;
@@ -66,9 +75,9 @@ div#opcoes{
 		}
 		h3#notificaAlarmetxt{
 			position:fixed;
-			top: 68.2%;
-			left: 44%;
-			font-family: Arial;
+			top: 68.4%;
+			left: 45%;
+			font-family: lcdfont;
 			font-size: 100%;
 		}
 		img#menuIcone{
@@ -90,7 +99,7 @@ div#opcoes{
 		img#notificaAlarme{
 			position:fixed;
 			top: 70%;
-			left: 42%;
+			left: 43%;
 			width: 1.5%;
 			height: 2.5%;
 		}
